@@ -1,0 +1,85 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "certificates": "Certificates",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "profile": {
+    "full_name": "Vitaliy Voloshyn",
+    "position": "Fullstack Junior Developer",
+    "bio_placeholder": "Experienced manager transitioning to IT, with over two years of intensive study and a diploma from SkillFactory. Ready to contribute to innovative web development projects."
+  },
+  "experience": {
+    "description": "My professional journey and continuous learning in the IT field.",
+    "current": "Current"
+  },
+  "skills": {
+    "description": "The skills and technologies I possess.",
+    "proficiency_beginner": "Beginner",
+    "proficiency_basic": "Basic",
+    "proficiency_proficient": "Proficient",
+    "proficiency_intermediate": "Intermediate",
+    "proficiency_advanced": "Advanced",
+    "proficiency_expert": "Expert"
+  },
+  "projects": {
+    "description": "Here are some of my recent projects that showcase my skills and experience.",
+    "no_projects_found": "No projects found."
+  },
+  "certificates": {
+    "description": "A collection of my certifications, courses, and achievements.",
+    "no_certificates_found": "No certificates found.",
+    "verify": "Verify",
+    "download": "Download"
+  },
+  "blog": {
+    "description": "My thoughts, insights, and technical articles on various topics.",
+    "no_posts_found": "No blog posts found."
+  },
+  "contact": {
+    "description": "Get in touch with me for collaboration opportunities or just to say hello.",
+    "info": {
+      "title": "Contact Information",
+      "working_hours": "Working Hours",
+      "available_for_work": "Available for Work"
+    },
+    "social": {
+      "title": "Social Links"
+    },
+    "form": {
+      "title": "Send Message",
+      "name": "Name",
+      "name_placeholder": "Your full name",
+      "email": "Email",
+      "email_placeholder": "your.email@example.com",
+      "phone": "Phone",
+      "phone_placeholder": "+1 (555) 123-4567",
+      "company": "Company",
+      "company_placeholder": "Your company name",
+      "subject": "Subject",
+      "subject_placeholder": "What is this about?",
+      "message": "Message",
+      "message_placeholder": "Tell me about your project or inquiry...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success_message": "Message sent successfully! I'll get back to you soon.",
+      "error_message": "Failed to send message. Please try again."
+    }
+  },
+  "footer": {
+    "brand_description": "Fullstack Junior Developer passionate about creating innovative web solutions and learning new technologies.",
+    "quick_links": "Quick Links",
+    "contact_info": "Contact",
+    "follow_me": "Follow Me",
+    "rights_reserved": "All rights reserved.",
+    "built_with": "Built with Next.js, TypeScript & Tailwind CSS"
+  },
+    "common": {
+    "show_all": "Show All"
+}
+} 

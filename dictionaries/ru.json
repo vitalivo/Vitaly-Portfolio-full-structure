@@ -1,0 +1,85 @@
+{
+  "header": {
+    "home": "Главная",
+    "about": "Обо мне",
+    "experience": "Опыт",
+    "skills": "Навыки",
+    "projects": "Проекты",
+    "certificates": "Сертификаты",
+    "blog": "Блог",
+    "contact": "Контакты"
+  },
+  "profile": {
+    "full_name": "Виталий Волошин",
+    "position": "Junior Fullstack Разработчик",
+    "bio_placeholder": "Опытный менеджер, переходящий в IT, с более чем двумя годами интенсивного обучения и дипломом SkillFactory. Готов внести вклад в инновационные проекты веб-разработки."
+  },
+  "experience": {
+    "description": "Мой профессиональный путь и непрерывное обучение в сфере IT.",
+    "current": "Настоящее время"
+  },
+  "skills": {
+    "description": "Навыки и технологии, которыми я владею.",
+    "proficiency_beginner": "Начинающий",
+    "proficiency_basic": "Базовый",
+    "proficiency_proficient": "Опытный",
+    "proficiency_intermediate": "Средний",
+    "proficiency_advanced": "Продвинутый",
+    "proficiency_expert": "Эксперт"
+  },
+  "projects": {
+    "description": "Вот некоторые из моих недавних проектов, демонстрирующих мои навыки и опыт.",
+    "no_projects_found": "Проекты не найдены."
+  },
+  "certificates": {
+    "description": "Коллекция моих сертификаций, курсов и достижений.",
+    "no_certificates_found": "Сертификаты не найдены.",
+    "verify": "Проверить",
+    "download": "Скачать"
+  },
+  "blog": {
+    "description": "Мои мысли, идеи и технические статьи на различные темы.",
+    "no_posts_found": "Статьи блога не найдены."
+  },
+  "contact": {
+    "description": "Свяжитесь со мной для обсуждения возможностей сотрудничества или просто поздороваться.",
+    "info": {
+      "title": "Контактная информация",
+      "working_hours": "Рабочие часы",
+      "available_for_work": "Доступен для работы"
+    },
+    "social": {
+      "title": "Социальные сети"
+    },
+    "form": {
+      "title": "Отправить сообщение",
+      "name": "Имя",
+      "name_placeholder": "Ваше полное имя",
+      "email": "Email",
+      "email_placeholder": "your.email@example.com",
+      "phone": "Телефон",
+      "phone_placeholder": "+7 (999) 123-45-67",
+      "company": "Компания",
+      "company_placeholder": "Название вашей компании",
+      "subject": "Тема",
+      "subject_placeholder": "О чем это сообщение?",
+      "message": "Сообщение",
+      "message_placeholder": "Расскажите о вашем проекте или запросе...",
+      "send": "Отправить сообщение",
+      "sending": "Отправка...",
+      "success_message": "Сообщение успешно отправлено! Я свяжусь с вами в ближайшее время.",
+      "error_message": "Не удалось отправить сообщение. Пожалуйста, попробуйте еще раз."
+    }
+  },
+  "footer": {
+    "brand_description": "Fullstack Junior Developer, увлеченный созданием инновационных веб-решений и изучением новых технологий.",
+    "quick_links": "Быстрые ссылки",
+    "contact_info": "Контакты",
+    "follow_me": "Подписывайтесь",
+    "rights_reserved": "Все права защищены.",
+    "built_with": "Создано с помощью Next.js, TypeScript и Tailwind CSS"
+  },
+    "common": {
+    "show_all": "Показать все"
+  }
+}

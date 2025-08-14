@@ -1,0 +1,85 @@
+{
+  "header": {
+    "home": "ראשי",
+    "about": "אודות",
+    "experience": "ניסיון",
+    "skills": "כישורים",
+    "projects": "פרויקטים",
+    "certificates": "תעודות",
+    "blog": "בלוג",
+    "contact": "צור קשר"
+  },
+  "profile": {
+    "full_name": "ויטלי וולושין",
+    "position": "מפתח Fullstack Junior",
+    "bio_placeholder": "מנהל מנוסה העובר לתחום ה-IT, עם למעלה משנתיים של לימוד אינטנסיבי ודיפלומה מ-SkillFactory. מוכן לתרום לפרויקטים חדשניים בפיתוח ווב."
+  },
+  "experience": {
+    "description": "המסע המקצועי שלי והלמידה המתמשכת בתחום ה-IT.",
+    "current": "נוכחי"
+  },
+  "skills": {
+    "description": "הכישורים והטכנולוגיות, которыми я владею.",
+    "proficiency_beginner": "מתחיל",
+    "proficiency_basic": "בסיסי",
+    "proficiency_proficient": "בקיא",
+    "proficiency_intermediate": "בינוני",
+    "proficiency_advanced": "מתקדם",
+    "proficiency_expert": "מומחה"
+  },
+  "projects": {
+    "description": "הנה כמה מהפרויקטים האחרונים שלי המציגים את הכישורים והניסיון שלי.",
+    "no_projects_found": "לא נמצאו פרויקטים."
+  },
+  "certificates": {
+    "description": "אוסף התעודות, הקורסים וההישגים שלי.",
+    "no_certificates_found": "לא נמצאו תעודות.",
+    "verify": "אימות",
+    "download": "הורדה"
+  },
+  "blog": {
+    "description": "המחשבות, התובנות והמאמרים הטכניים שלי בנושאים שונים.",
+    "no_posts_found": "לא נמצאו פוסטים בבלוג."
+  },
+  "contact": {
+    "description": "צור איתי קשר לגבי הזדמנויות שיתוף פעולה או פשוט כדי לומר שלום.",
+    "info": {
+      "title": "פרטי התקשרות",
+      "working_hours": "שעות עבודה",
+      "available_for_work": "זמין לעבודה"
+    },
+    "social": {
+      "title": "קישורים חברתיים"
+    },
+    "form": {
+      "title": "שלח הודעה",
+      "name": "שם",
+      "name_placeholder": "השם המלא שלך",
+      "email": "אימייל",
+      "email_placeholder": "your.email@example.com",
+      "phone": "טלפון",
+      "phone_placeholder": "050-123-4567",
+      "company": "חברה",
+      "company_placeholder": "שם החברה שלך",
+      "subject": "נושא",
+      "subject_placeholder": "על מה זה?",
+      "message": "הודעה",
+      "message_placeholder": "ספר לי על הפרויקט או הפנייה שלך...",
+      "send": "שלח הודעה",
+      "sending": "שולח...",
+      "success_message": "ההודעה נשלחה בהצלחה! אחזור אליך בקרוב.",
+      "error_message": "שליחת ההודעה נכשלה. אנא נסה שוב."
+    }
+  },
+  "footer": {
+    "brand_description": "מפתח Fullstack Junior הנלהב ליצור פתרונות ווב חדשניים וללמוד טכנולוגיות חדשות.",
+    "quick_links": "קישורים מהירים",
+    "contact_info": "יצירת קשר",
+    "follow_me": "עקבו אחרי",
+    "rights_reserved": "כל הזכויות שמורות.",
+    "built_with": "נבנה עם Next.js, TypeScript ו-Tailwind CSS"
+  },
+    "common": {
+    "show_all": "הצג הכל"
+  }
+}
