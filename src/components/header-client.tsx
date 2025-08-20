@@ -39,43 +39,43 @@ export default function HeaderClient({ locale, dict, profile, localizedName, loc
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-6">
           <Link
-            href={`/${locale}/#about`}
+            href={`/${locale}/about`}
             className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
           >
             {dict.header.about}
           </Link>
           <Link
-            href={`/${locale}/#experience`}
+            href={`/${locale}/experience`}
             className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
           >
             {dict.header.experience}
           </Link>
           <Link
-            href={`/${locale}/#skills`}
+            href={`/${locale}/skills`}
             className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
           >
             {dict.header.skills}
           </Link>
           <Link
-            href={`/${locale}/#projects`}
+            href={`/${locale}/projects`}
             className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
           >
             {dict.header.projects}
           </Link>
           <Link
-            href={`/${locale}/#certificates`}
+            href={`/${locale}/certificates`}
             className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
           >
             {dict.header.certificates}
           </Link>
           <Link
-            href={`/${locale}/#blog`}
+            href={`/${locale}/blog`}
             className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
           >
             {dict.header.blog}
           </Link>
           <Link
-            href={`/${locale}/#contact`}
+            href={`/${locale}/contact`}
             className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
           >
             {dict.header.contact}
@@ -113,44 +113,51 @@ export default function HeaderClient({ locale, dict, profile, localizedName, loc
         <div className="md:hidden border-t bg-white/95 backdrop-blur">
           <nav className="container px-4 py-4 space-y-2">
             <Link
-              href={`/${locale}/#about`}
+              href={`/${locale}/about`}
               className="block py-2 text-sm font-medium text-gray-700 hover:text-blue-600"
+              onClick={() => setIsMenuOpen(false)}
             >
               {dict.header.about}
             </Link>
             <Link
-              href={`/${locale}/#experience`}
+              href={`/${locale}/experience`}
               className="block py-2 text-sm font-medium text-gray-700 hover:text-blue-600"
+              onClick={() => setIsMenuOpen(false)}
             >
               {dict.header.experience}
             </Link>
             <Link
-              href={`/${locale}/#skills`}
+              href={`/${locale}/skills`}
               className="block py-2 text-sm font-medium text-gray-700 hover:text-blue-600"
+              onClick={() => setIsMenuOpen(false)}
             >
               {dict.header.skills}
             </Link>
             <Link
-              href={`/${locale}/#projects`}
+              href={`/${locale}/projects`}
               className="block py-2 text-sm font-medium text-gray-700 hover:text-blue-600"
+              onClick={() => setIsMenuOpen(false)}
             >
               {dict.header.projects}
             </Link>
             <Link
-              href={`/${locale}/#certificates`}
+              href={`/${locale}/certificates`}
               className="block py-2 text-sm font-medium text-gray-700 hover:text-blue-600"
+              onClick={() => setIsMenuOpen(false)}
             >
               {dict.header.certificates}
             </Link>
             <Link
-              href={`/${locale}/#blog`}
+              href={`/${locale}/blog`}
               className="block py-2 text-sm font-medium text-gray-700 hover:text-blue-600"
+              onClick={() => setIsMenuOpen(false)}
             >
               {dict.header.blog}
             </Link>
             <Link
-              href={`/${locale}/#contact`}
+              href={`/${locale}/contact`}
               className="block py-2 text-sm font-medium text-gray-700 hover:text-blue-600"
+              onClick={() => setIsMenuOpen(false)}
             >
               {dict.header.contact}
             </Link>

@@ -63,12 +63,12 @@ export default function HeroContent({
           className="flex flex-col gap-2 min-[400px]:flex-row justify-center lg:justify-start"
           variants={itemVariants}
         >
-          <Link href={`/${locale}#contact`}>
+          <Link href={`/${locale}/contact`}>
             <Button className="bg-white text-purple-800 hover:bg-gray-100 hover:text-purple-900 px-8 py-3 text-lg font-semibold shadow-lg transition-all duration-300 transform hover:scale-105">
               {dict.header?.contact || "Contact"}
             </Button>
           </Link>
-          <Link href={`/${locale}#projects`}>
+          <Link href={`/${locale}/projects`}>
             <Button
               variant="outline"
               className="border-white text-white hover:bg-white hover:text-purple-800 px-8 py-3 text-lg font-semibold shadow-lg transition-all duration-300 transform hover:scale-105 bg-transparent"
