@@ -33,20 +33,20 @@ export default function Footer({ locale, dict, profile }: FooterProps) {
           <div className="space-y-4">
             <h3 className="font-semibold text-lg">{dict?.footer?.quick_links || "Quick Links"}</h3>
             <nav className="flex flex-col space-y-2">
-              <Link href={`/${locale}#about`} className="text-gray-400 hover:text-white transition-colors text-sm">
+              <Link href={`/${locale}/about`} className="text-gray-400 hover:text-white transition-colors text-sm">
                 {dict?.header?.about || "About"}
               </Link>
-              <Link href={`/${locale}#experience`} className="text-gray-400 hover:text-white transition-colors text-sm">
+              <Link href={`/${locale}/experience`} className="text-gray-400 hover:text-white transition-colors text-sm">
                 {dict?.header?.experience || "Experience"}
               </Link>
-              <Link href={`/${locale}#skills`} className="text-gray-400 hover:text-white transition-colors text-sm">
+              <Link href={`/${locale}/skills`} className="text-gray-400 hover:text-white transition-colors text-sm">
                 {dict?.header?.skills || "Skills"}
               </Link>
-              <Link href={`/${locale}#projects`} className="text-gray-400 hover:text-white transition-colors text-sm">
+              <Link href={`/${locale}/projects`} className="text-gray-400 hover:text-white transition-colors text-sm">
                 {dict?.header?.projects || "Projects"}
               </Link>
               <Link
-                href={`/${locale}#certificates`}
+                href={`/${locale}/certificates`}
                 className="text-gray-400 hover:text-white transition-colors text-sm"
               >
                 {dict?.header?.certificates || "Certificates"}
